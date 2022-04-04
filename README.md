@@ -6,6 +6,8 @@
 Hier eine kurze Anleitung zum Löten der Rütüta Platine:
 Zunächst gucken wir uns einmal die Bauteile an, die du für die Platine benötigst. In der folgenden Tabelle sind alle einmal aufgelsitet. Jedes Bauteil hat eine Kennung, die du auch auf der Platine wiederfindest, damit du weißt welches Bauteil wo hingehört.
 
+![Rütüta Badge gelötet Rückseite](images/rütüta-badge-rückseite.jpg)
+
 **Bauteile:**
 Bauteil|Kennung|Name/Wert
 -|-|-
