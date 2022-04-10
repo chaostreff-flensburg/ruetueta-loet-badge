@@ -36,7 +36,7 @@ Wenn du alle Bauteile verlötet hast, fehlt nur noch das Kabel, um deine Platine
 
 
 Jetzt ist deine Platine einsatzbereit und du kannst den 9V Block anschließen.
-Falls deine Platine beim ersten Einsatz nicht gleich anfangen sollte zu Blinken, kann es sein, dass du deiner Platine beim Starten etwas helfen musst. Überbrücke dazu kurzzeitig den Wiederstand R6 mit einem Kabel oder einem der abgezwickten Beinchen. Nun sollte deine Platine mit der Animation starten
+Falls deine Platine beim ersten Einsatz nicht gleich anfangen sollte zu Blinken, kann es sein, dass du deiner Platine beim Starten etwas helfen musst. Überbrücke dazu kurzzeitig den Wiederstand R6 mit einem 120 Ohm Wiederstand. Nun sollte deine Platine mit der Animation starten :D
 
 
 
